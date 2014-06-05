@@ -1,3 +1,3 @@
-function hoge(num){
+function id(num){
 	return num;
 }
