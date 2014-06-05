@@ -1,3 +1,5 @@
 Function prime(x){
-If(x >= 0)
+If( x >= 0){
+}else{
+}
 }
