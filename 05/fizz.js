@@ -1,9 +1,10 @@
-function fizz(num){
-	if(num%3 = 0){
-		return ('fizz');
-	} else if(num%3 != 0){
-		return num;
+var fizz = function(n){
+	str = "fizz"
+	if(n%3 == 0){
+		return str;
+	} else if(n%3 !== 0) {
+		return n;
 	} else {
-		return num;
+		return n;
 	}
 }
